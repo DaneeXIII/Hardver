@@ -25,6 +25,20 @@ section {
 
 }
 
+#kep {
+  width: 450px;
+}
+
+#asd {
+  background-color: #eee;
+}
+
+#h1 {
+  text-align: center;
+  background-color: #eee
+}
+
+
 #leiras tr:nth-child(even) {
   background-color: #eee;
 }
@@ -38,6 +52,7 @@ section {
 
 #meret {
   float: center;
+  text-align: center;
 }
 /* Style the top navigation bar */
 .topnav {
